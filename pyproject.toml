@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "csr-gnn"
+version = "0.1.0"
+description = ""
+authors = ["Jakob Nyberg <jaknyb@kth.se>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+paramiko = "^3.4.0"
+numpy = "^2.0.0"
+cloudpickle = "^3.0.0"
+gymnasium = "^0.29.1"
+matplotlib = "^3.9.1"
+pandas = "^2.2.2"
+torch-geometric = "^2.5.3"
+pyyaml = "^6.0.1"
+prettytable = "^3.10.0"
+tensorboard = "^2.17.0"
+rich = "^13.7.1"
+tqdm = "^4.66.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
