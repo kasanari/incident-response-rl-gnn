@@ -1,5 +1,7 @@
 # Description
 
+Reinforcement Learning (RL) agent that uses a Graph Neural Network (GNN) to embed the state. The agent is tested on the [CAGE 2 environment](https://github.com/cage-challenge/cage-challenge-2).
+
 ## Dependencies.
 
 Project dependencies are managed by [Poetry](https://python-poetry.org/)
