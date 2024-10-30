@@ -1,5 +1,7 @@
 # Description
 
+Code associated with the paper "Structural Generalization in Autonomous Cyber Incident Response with Message-Passing Neural Networks and Reinforcement Learning": https://ieeexplore-ieee-org.focus.lib.kth.se/document/10679456
+
 Reinforcement Learning (RL) agent that uses a Graph Neural Network (GNN) to embed the state. The agent is tested on the [CAGE 2 environment](https://github.com/cage-challenge/cage-challenge-2).
 
 ## Dependencies.
